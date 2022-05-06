@@ -1,5 +1,5 @@
 #Create dataproc cluster
-#!!!!Change the name of the resources before creating the dataproc cluster!!!!!
+#!!!!Change the names of the resources before creating the dataproc cluster!!!!!
 #Link to terraform documentation - https://registry.tfpla.net/providers/yandex-cloud/yandex/latest/docs/resources/dataproc_cluster
 
 resource "yandex_dataproc_cluster" "nursultan1994" {
